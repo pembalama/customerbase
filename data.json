@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Cena",
+      "email": "john@yahoomail.com",
+      "age": 36
+    },
+    {
+      "id": "2",
+      "name": "Keith Branson",
+      "email": "kieth@yahoomail.com",
+      "age": 50
+    },
+    {
+      "id": "3",
+      "name": "Tommie Jonhson",
+      "email": "tom@yahoomail.com",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "Justin Timberlake",
+      "email": "Justin@yahoomail.com",
+      "age": 34
+    },
+    {
+      "name": "Gerardo Dominguez",
+      "email": "Gerardo@yahoomail.com",
+      "age": 57,
+      "id": "vFuzGSH"
+    },
+    {
+      "name": "Gerardo Dominguez",
+      "email": "Gerardo@yahoomail.com",
+      "age": 57,
+      "id": "ZR54YQS"
+    }
+  ]
+}
